@@ -1,0 +1,336 @@
+.container-fluid .duy {
+  height: auto;
+}
+.container-fluid .duy .titlee {
+  text-align: center;
+}
+.container-fluid .duy .titlee h1 {
+  color: #ffc0cb;
+}
+.container-fluid .duy .titlee a {
+  color: pink;
+  text-decoration: none;
+}
+.container-fluid .duy .titlee a:hover {
+  text-decoration: none;
+  color: blue;
+}
+.container-fluid .duy .kc img {
+  width: 115%;
+}
+@media screen and (max-width: 1023px) {
+  .container-fluid .duy .kc img {
+    width: 123%;
+  }
+}
+.container-fluid .duy .kc a {
+  text-decoration: none;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy .carousel-item {
+    display: none;
+  }
+}
+.container-fluid .duy .carousel-control-prev {
+  position: absolute;
+  top: -15%;
+  left: 93%;
+  height: 15%;
+  width: 3.5%;
+  background: blue;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy .carousel-control-prev {
+    display: none;
+  }
+}
+.container-fluid .duy .carousel-control-next {
+  position: absolute;
+  top: -15%;
+  height: 15%;
+  left: 97%;
+  width: 3.5%;
+  background: blue;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy .carousel-control-next {
+    display: none;
+  }
+}
+.container-fluid .duy .haha {
+  display: none;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy .haha {
+    display: block;
+  }
+}
+.container-fluid .duy .haha img {
+  width: 100%;
+}
+.container-fluid .duy .xm {
+  display: none;
+  float: right;
+  font-size: 20px;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy .xm {
+    display: block;
+  }
+}
+.container-fluid .duy .xm a {
+  text-decoration: none;
+}
+.container-fluid .duy .xm a:hover {
+  color: darkgreen;
+  text-decoration: none;
+}
+.container-fluid .duy2 {
+  background: linear-gradient(to right, #800080, #0000ff);
+}
+.container-fluid .duy2 .titlee2 {
+  color: white;
+  text-align: center;
+}
+.container-fluid .duy2 .titlee2 a {
+  text-decoration: none;
+  color: white;
+}
+.container-fluid .duy2 .titlee2 a:hover {
+  text-decoration: none;
+  color: red;
+}
+.container-fluid .duy2 .kcc img {
+  width: 100%;
+}
+@media screen and (max-width: 1023px) {
+  .container-fluid .duy2 .kcc img {
+    width: 123%;
+  }
+}
+.container-fluid .duy2 .kcc a {
+  text-decoration: none;
+  color: yellow;
+}
+.container-fluid .duy2 .kcc a:hover {
+  color: black;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy2 .carousel-item {
+    display: none;
+  }
+}
+.container-fluid .duy2 .carousel-control-prev {
+  position: absolute;
+  top: -15%;
+  left: 93%;
+  height: 15%;
+  width: 3.5%;
+  background: lightblue;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy2 .carousel-control-prev {
+    display: none;
+  }
+}
+.container-fluid .duy2 .carousel-control-next {
+  position: absolute;
+  top: -15%;
+  height: 15%;
+  left: 97%;
+  width: 3.5%;
+  background: lightblue;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy2 .carousel-control-next {
+    display: none;
+  }
+}
+.container-fluid .duy2 .haha2 {
+  display: none;
+  background: pink;
+  height: auto;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy2 .haha2 {
+    display: block;
+  }
+}
+.container-fluid .duy2 .haha2 .cc {
+  width: 100%;
+  height: 70%;
+  text-align: center;
+  display: none;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy2 .haha2 .cc {
+    display: block;
+  }
+}
+.container-fluid .duy2 .haha2 .cc img {
+  width: 100%;
+  height: 200px;
+}
+.container-fluid .duy2 .haha2 .thap {
+  width: 100%;
+  height: 30%;
+  background: lightpink;
+}
+.container-fluid .duy2 .haha2 .thap p {
+  padding-left: 10%;
+  float: left;
+  font-size: 80%;
+  color: white;
+}
+.container-fluid .duy2 .haha2 .thap a {
+  color: blue;
+  font-size: 80%;
+  padding-right: 10%;
+  float: right;
+}
+.container-fluid .duy2 .chit {
+  display: none;
+  float: right;
+  font-size: 20px;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy2 .chit {
+    display: block;
+  }
+}
+.container-fluid .duy2 .chit a {
+  color: yellow;
+  text-decoration: none;
+}
+.container-fluid .duy2 .chit a:hover {
+  color: darkgreen;
+  text-decoration: none;
+}
+.container-fluid .duy3 {
+  background: #DCDCDC;
+}
+.container-fluid .duy3 .titlee2 {
+  color: purple;
+  text-align: center;
+}
+.container-fluid .duy3 .titlee2 h1 {
+  color: purple;
+}
+.container-fluid .duy3 .titlee2 a {
+  text-decoration: none;
+  color: purple;
+}
+.container-fluid .duy3 .titlee2 a:hover {
+  text-decoration: none;
+  color: red;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy3 .carousel-item {
+    display: none;
+  }
+}
+.container-fluid .duy3 .carousel-item .kcc a {
+  text-decoration: none;
+}
+.container-fluid .duy3 .carousel-item .kcc a:hover {
+  color: red;
+  text-decoration: none;
+}
+.container-fluid .duy3 .carousel-item .kcc img {
+  width: 100%;
+  height: 250px;
+}
+@media screen and (max-width: 1023px) {
+  .container-fluid .duy3 .carousel-item .kcc img {
+    width: 123%;
+  }
+}
+.container-fluid .duy3 .carousel-item .kcc .thapv .text-center a {
+  color: black;
+}
+.container-fluid .duy3 .carousel-control-prev {
+  position: absolute;
+  top: -15%;
+  left: 93%;
+  height: 15%;
+  width: 3.5%;
+  background: blue;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy3 .carousel-control-prev {
+    display: none;
+  }
+}
+.container-fluid .duy3 .carousel-control-next {
+  position: absolute;
+  top: -15%;
+  height: 15%;
+  left: 97%;
+  width: 3.5%;
+  background: blue;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy3 .carousel-control-next {
+    display: none;
+  }
+}
+.container-fluid .duy3 .haha2 {
+  background: pink;
+  height: auto;
+  display: none;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy3 .haha2 {
+    display: block;
+  }
+}
+.container-fluid .duy3 .haha2 .cc {
+  width: 100%;
+  height: 70%;
+  text-align: center;
+  display: none;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy3 .haha2 .cc {
+    display: block;
+  }
+}
+.container-fluid .duy3 .haha2 .cc img {
+  width: 100%;
+  height: 200px;
+}
+.container-fluid .duy3 .haha2 .thap {
+  width: 100%;
+  height: 30%;
+  background: lightpink;
+}
+.container-fluid .duy3 .haha2 .thap p {
+  padding-left: 10%;
+  float: left;
+  font-size: 80%;
+  color: white;
+}
+.container-fluid .duy3 .haha2 .thap a {
+  text-decoration: none;
+  color: blue;
+  font-size: 80%;
+  padding-right: 10%;
+  float: right;
+}
+.container-fluid .duy3 .chit {
+  display: none;
+  float: right;
+  font-size: 20px;
+}
+@media screen and (max-width: 766px) {
+  .container-fluid .duy3 .chit {
+    display: block;
+  }
+}
+.container-fluid .duy3 .chit a {
+  text-decoration: none;
+}
+.container-fluid .duy3 .chit a:hover {
+  color: darkgreen;
+  text-decoration: none;
+}
