@@ -427,6 +427,7 @@
 }
 .container-fluid .hau .hau-2 {
   float: left;
+  width: 500%;
 }
 .container-fluid .hau .hau-2 .trai {
   float: left;
@@ -498,6 +499,7 @@
 @media screen and (max-width: 767px) {
   .container-fluid .hau .hau-2 .phai {
     margin: 0px;
+    width: 100%;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
